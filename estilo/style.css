@@ -71,8 +71,8 @@ nav {
 
 nav > a {
     color: var(--cor1);
-    padding: 10px;
     border-radius: 5px;
+    margin: 0 auto;
     text-decoration: none;
     font-weight: bold;
     transition-duration: 0.5s;
@@ -206,3 +206,4 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+
